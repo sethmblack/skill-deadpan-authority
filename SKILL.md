@@ -3,8 +3,9 @@ name: deadpan-authority
 description: Transform leadership and authority content by maintaining absolute dignity and seriousness while surrounded by complete chaos or absurdity.
 license: MIT
 metadata:
+  version: 1.0.3778
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - chapman
